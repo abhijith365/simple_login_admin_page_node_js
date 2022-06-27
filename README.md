@@ -1,4 +1,4 @@
-# simple_login_admin_page_node_js
+# simple login admin page node js
 simple login page for user and admin and simple home page for user, admin home page admin can create, read, update and delete user data
 
 
